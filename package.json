@@ -24,6 +24,6 @@
     "lodash": "2.4.x",
     "nodemailer": "~0.6.0",
     "optimist": "^0.6.1",
-    "uploadfs": "~1.1.0"
+    "uploadfs": "sueddeutsche/uploadfs"
   }
 }
