@@ -1,3 +1,5 @@
+! We can't merge until sueddeutsche/apostrophe is merged into punkave/apostrophe. (sueddeutsche/uploadfs is already merged into punkave/uploadfs) 21.12.2015
+
 # Apostrophe Site
 
 The Apostrophe Site module makes it easy to build websites with the [Apostrophe](http://github.com/punkave/apostrophe) content management system for Node.
