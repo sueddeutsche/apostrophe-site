@@ -1,4 +1,4 @@
-! We can't use punkave/apostrophe-site until matthaias/apostrophe is merged into punkave/apostrophe. https://github.com/punkave/apostrophe/pull/390 (sueddeutsche/uploadfs is already merged into punkave/uploadfs) 21.12.2015
+! We can't use punkave/apostrophe-site until matthaias/apostrophe is merged into punkave/apostrophe. https://github.com/punkave/apostrophe/pull/390 (sueddeutsche/uploadfs is already merged into punkave/uploadfs) 21.12.2015. Also the appy-Pullrequest must be merged before moving back to punkaves apostrophe-site.
 
 # Apostrophe Site
 

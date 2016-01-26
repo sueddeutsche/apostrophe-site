@@ -17,7 +17,7 @@
     "apostrophe": "sueddeutsche/apostrophe",
     "apostrophe-pages": "~0.5.x",
     "apostrophe-schemas": "~0.5.x",
-    "appy": "~0.5.0",
+    "appy": "sueddeutsche/appy",
     "async": "0.8.x",
     "extend": "~1.2.0",
     "i18n": "0.4.1",
