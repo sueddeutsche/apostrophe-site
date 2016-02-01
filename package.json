@@ -17,7 +17,7 @@
     "apostrophe": "sueddeutsche/apostrophe#dont-remove-old-css-for-cluster-mode",
     "apostrophe-pages": "~0.5.x",
     "apostrophe-schemas": "~0.5.x",
-    "appy": "sueddeutsche/appy",
+    "appy": "sueddeutsche/appy#added-throng-for-cluster-mode",
     "async": "0.8.x",
     "extend": "~1.2.0",
     "i18n": "0.4.1",
