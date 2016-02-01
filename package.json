@@ -14,10 +14,10 @@
   "author": "P'unk Avenue LLC",
   "license": "MIT",
   "dependencies": {
-    "apostrophe": "sueddeutsche/apostrophe#1.0.1",
+    "apostrophe": "sueddeutsche/apostrophe#1.0.2",
     "apostrophe-pages": "~0.5.x",
     "apostrophe-schemas": "~0.5.x",
-    "appy": "sueddeutsche/appy",
+    "appy": "sueddeutsche/appy#1.0.1",
     "async": "0.8.x",
     "extend": "~1.2.0",
     "i18n": "0.4.1",
