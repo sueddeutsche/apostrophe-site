@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "apostrophe": "~0.5.x",
-    "apostrophe-pages": "~0.5.x",
+    "apostrophe-pages": "sueddeutsche/apostrophe-pages#1.0.0",
     "apostrophe-schemas": "~0.5.x",
     "appy": "~0.5.0",
     "async": "0.8.x",
